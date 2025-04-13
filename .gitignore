@@ -3,3 +3,8 @@ data/raw/
 *.csv 
 __pycache__/ 
 .ipynb_checkpoints/ 
+"*.parquet" 
+"*.csv" 
+"data/" 
+"__pycache__/" 
+".ipynb_checkpoints/" 
