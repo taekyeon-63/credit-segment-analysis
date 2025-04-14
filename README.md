@@ -5,9 +5,17 @@
 이 프로젝트는 2025년 신용카드사 공모전을 위한 분석으로, 고객의 과거 6개월간 거래 정보를 기반으로  
 고객을 A~E 세그먼트로 분류하는 머신러닝 모델을 개발하는 것이 목표입니다.
 
+<<<<<<< HEAD
 ---
 
 [프로젝트 개요](https://drive.google.com/uc?export=view&id=1UlPWkrZsIfwyToU4GiQ0x9mADv0_2xFY)
+=======
+
+## 🗂 연습 프로젝트 개요
+
+![연습 프로젝트 개요](images/연습프로젝트 개요.png)
+
+>>>>>>> b9c7292 (Add 프로젝트 이미지 및 README 구성)
 
 ## 📌 프로젝트 개요
 
@@ -15,6 +23,7 @@
 - **목표**: 고객의 세그먼트 (A~E)를 예측하는 분류 모델 개발
 - **기법**: XGBoost 기반 분류 모델 + SMOTEENN을 통한 클래스 불균형 해결
 
+<<<<<<< HEAD
 ---
 
 ## 📈 주요 결과
@@ -56,3 +65,40 @@
 
 credit-segment-analysis/ ├── README.md ├── requirements.txt ├── notebooks/ │ └── main_analysis.ipynb ├── scripts/ │ └── predict.py ├── models/ │ └── xgb_best_model.pkl ├── results/ │ └── summary.csv └── .gitignore
 
+=======
+
+## 💡 연습 프로젝트 선정 이유
+
+![연습 프로젝트 선정이유](images/연습프로젝트 선정이유.png)
+
+---
+
+## 🧪 연습 프로젝트 설명
+
+![연습 프로젝트 설명](images/연습프로젝트 설명.png)
+
+---
+
+## 📊 데이터 분석 과정
+
+### 1단계
+![데이터 분석 1](images/연습프로젝트 데이터분석1.png)
+
+### 2단계
+![데이터 분석 2](images/연습프로젝트 데이터분석2.png)
+
+### 3단계
+![데이터 분석 3](images/연습프로젝트 데이터분석3.png)
+
+---
+
+## ✅ 분석 결과
+
+![분석 결과](images/연습프로젝트 데이터분석 결과.png)
+
+---
+
+## ⚠️ 한계점 및 보완 방향
+
+![한계점](images/연습프로젝트 한계점.png)
+>>>>>>> b9c7292 (Add 프로젝트 이미지 및 README 구성)
