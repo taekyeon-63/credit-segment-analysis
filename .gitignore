@@ -1,10 +1,10 @@
-data/raw/ 
-*.pkl 
-*.csv 
-__pycache__/ 
-.ipynb_checkpoints/ 
-"*.parquet" 
-"*.csv" 
-"data/" 
-"__pycache__/" 
-".ipynb_checkpoints/" 
+# ❗️불필요한 파일 무시
+*.parquet
+*.csv
+*.pkl
+__pycache__/
+.ipynb_checkpoints/
+data/raw/
+
+# ✅ 이미지 포함 허용
+!images/*.png
