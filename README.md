@@ -1,24 +1,19 @@
-
-
-# 📊 Credit Segment Analysis
-
-## 🗂 프로젝트 개요
-![프로젝트 개요](images/연습프로젝트 개요.png)
+## 📊 프로젝트 개요
+![overview](images/overview.png)
 
 ## 💡 프로젝트 선정 이유
-![선정 이유](images/연습프로젝트 선정이유.png)
+![reason](images/reason.png)
 
-## 🧪 프로젝트 설명
-![설명](images/연습프로젝트 설명.png)
+## 📘 프로젝트 설명
+![description](images/description.png)
 
 ## 📈 데이터 분석
-![분석1](images/연습프로젝트 데이터분석1.png)
-![분석2](images/연습프로젝트 데이터분석2.png)
-![분석3](images/연습프로젝트 데이터분석3.png)
+![step1](images/analysis_step1.png)
+![step2](images/analysis_step2.png)
+![step3](images/analysis_step3.png)
 
 ## ✅ 분석 결과
-![결과](images/연습프로젝트 데이터분석 결과.png)
+![result](images/result.png)
 
 ## ⚠️ 한계점 및 보완
-![한계점](images/연습프로젝트 한계점.png)
-
+![limitation](images/limitation.png)
