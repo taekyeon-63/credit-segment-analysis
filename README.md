@@ -7,6 +7,8 @@
 
 ---
 
+![프로젝트 개요](https://drive.google.com/uc?export=view&id=1UlPWkrZsIfwyToU4GiQ0x9mADv0_2xFY)
+
 ## 📌 프로젝트 개요
 
 - **데이터**: 고객의 월별 카드 이용, 청구, 컨택, 이자율 등 총 6개월간의 금융 정보
