@@ -7,7 +7,7 @@
 
 ---
 
-![프로젝트 개요](https://drive.google.com/uc?export=view&id=1UlPWkrZsIfwyToU4GiQ0x9mADv0_2xFY)
+[프로젝트 개요](https://drive.google.com/uc?export=view&id=1UlPWkrZsIfwyToU4GiQ0x9mADv0_2xFY)
 
 ## 📌 프로젝트 개요
 
